@@ -3,9 +3,9 @@ repo_url: https://github.com/masonnlp/wiki
 nav:
     - Home: index.md
     - About: about.md
+    - Docs: docs.md
     - Projects: projects.md
     - Tools: tools.md
     - FAQ: faq.md
-    - Docs: docs.md
 theme: readthedocs
 
