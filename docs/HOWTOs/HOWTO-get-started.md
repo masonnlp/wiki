@@ -9,3 +9,7 @@
 ## Attention:
 * Intermediate: [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
 * Intermediate: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+
+## intuitive LSTM
+* Beginner: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+* Beginner: https://www.youtube.com/watch?v=WCUNPb-5EYI
