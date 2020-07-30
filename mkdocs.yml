@@ -3,7 +3,7 @@ repo_url: https://github.com/masonnlp/wiki
 nav:
     - Home: index.md
     - About: about.md
-    - Docs: docs.md
+    - How Tos: how-tos
     - Projects: projects.md
     - Tools: tools.md
     - FAQ: faq.md
